@@ -1,11 +1,5 @@
-# bd4h-final-project
-CSE 6250 Big Data Analytics for Heathcare 
-Spring 2024
-Final Project
-
-Team ID:  A4
-
-Team Members:  Saptarshi Basu and Russell Taylor
+# Generative Biomedical Entity Linking
+Saptarshi Basu and Russell Taylor
 
 Paper Title:  Hongyi Yuan, Zheng Yuan, Sheng Yu (2022). Generative Biomedical Entity Linking via Knowledge Base-Guided Pre-Training and Synonyms-Aware Fine-Tuning. arXiv preprint arXiv:2204.05164.
 
